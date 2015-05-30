@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SampleFileSystem</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_cache">Save cache file</string>
+    <string name="button_public">Save public file</string>
+    <string name="button_internal">Save internal file</string>
+    <string name="button_show_cache">Read cache</string>
+    <string name="button_show_public_file">Read public</string>
+    <string name="button_show_internal_file">Read internal</string><string name="textView_hint">Displays text string</string>
+
+</resources>
